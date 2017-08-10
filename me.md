@@ -61,7 +61,7 @@
 - 熟悉redis、memcached、有redis、memcached大规模线上使用经验
 - 熟悉Jetty、Tomcat、nginx服务器运维经验
 - 熟悉MySql、Oracle数据库、sql优化、数据库结构设计、mongodb存储
-- 熟悉linux系统、linux常用命令、简单shell、python、go编程
+- 熟悉linux系统、linux常用命令、简单shell、python、go编程、scala编程
 - 熟悉Git、SVN、maven等开发常用工具
 
 # 自我评价
@@ -71,17 +71,26 @@
 ## 参考技能关键字
 
 - java
+- scala
+- python
+- golang
+- akka
 - web
+- spring
+- springboot
+- mybatis
+- drools
+- guava
 - mysql
+- oracle
+- sql
+- nosql
+- spark
 - redis
 - memcached
 - mongodb
 - mq
 - linux
-- oracle
-- spring
-- mybatis
-- sql
 - soa
 - restful
 - jetty
